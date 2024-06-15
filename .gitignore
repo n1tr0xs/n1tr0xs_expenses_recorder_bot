@@ -164,3 +164,7 @@ cython_debug/
 # Python venv
 Scripts
 pyvenv.cfg
+
+# Sublime project files
+*.sublime-project
+*.sublime-workspace
